@@ -3,5 +3,16 @@
 
 // 1.chiediamo il nome 
 
+const userName = prompt('Qual è il tuo nome?');
 
-const userName = prompt('Dimmi il tuo nome');
+
+// 2.chiediamo il cognome 
+
+const userSurname = prompt('Qual è il tuo cognome?')
+
+
+// 3. chiediamo il colore preferito  
+
+const userColor = prompt('Qual è il tuo colore preferito)?')
+
+
